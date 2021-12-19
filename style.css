@@ -85,6 +85,30 @@ input[type="range"] {
 
 #first {
     border-top: 1px solid #5F6368;
+    font-weight: 300;
+}
+
+#second {
+    font-weight: 300;
+    font-style: italic;
+}
+
+#third {
+    font-weight: 400;
+}
+
+#fourth {
+    font-weight: 400;
+    font-style: italic;
+}
+
+#five {
+    font-weight: 700;
+}
+
+#six {
+    font-weight: 700;
+    font-style: italic;
 }
 
 
