@@ -22,6 +22,37 @@ body {
     margin: 150px auto;
 }
 
+.container__slider-text {
+    width: 400px;
+}
+
+.container__slider-field  {
+    padding: 16px;
+    border-radius: 9999px;
+    border: 1px solid#a69a9a;
+}
+
+.container__slider-legend {
+    color: #9aa0a6;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container__slider-input-text {
+    width: 100%;
+    background-color: rgba(32, 33, 36);
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+.container__slider-input-text:focus {
+    outline: none;
+}
+
+.container__slider-input-text:focus + .container__slider-field {
+    border-color: #8AB4F8;
+}
+
 .container__slider {
     display: flex;
     align-items: center;
@@ -62,6 +93,7 @@ input[type="range"] {
 
 .container__main-row {
     position: relative;
+    min-height: 141px;
     padding: 40px 0;
     border-bottom: 1px solid #5F6368;
     white-space: nowrap;
