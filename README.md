@@ -1,2 +1,2 @@
 # google-fonts-css
-![Capture](https://user-images.githubusercontent.com/80454936/146686645-aec7c9a8-082a-4ce9-814a-a535e090ecc8.JPG)
+![Capture](https://user-images.githubusercontent.com/80454936/147102515-7ce229bb-76b4-4bb5-9e07-f315acf67277.JPG)
